@@ -370,7 +370,18 @@ $(document).ready(function() {
 </div>
 ```
 
-### 5. CSS Stilleri
+### 5. Banka Logoları (Opsiyonel)
+
+Banka logolarını göstermek isterseniz, `catalog/view/theme/default/image/banks/` klasörüne banka logolarını ekleyebilirsiniz.
+
+**Logo dosya adları örneği:**
+- `akbank.png`
+- `garanti-bbva.png`
+- `isbank.png`
+- `yapikredi.png`
+- `finansbank.png`
+
+### 6. CSS Stilleri
 
 ```css
 .installment-table {
