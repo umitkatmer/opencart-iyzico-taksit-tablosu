@@ -434,3 +434,17 @@ Kurulum tamamlandıktan sonra:
 **Boş taksit tablosu:**
 - Ürün fiyatının 0'dan büyük olduğundan emin olun
 - İyzico API'sinin çalıştığını kontrol edin
+
+## İletişim
+
+**ÜMİT KATMER**
+- Email: info@umitkatmer.com.tr
+- Website: https://umitkatmer.com.tr
+
+## Destek
+
+Bu kod işinize yaradı ise, yardım kuruluşlarına bağış yaparak destek olabilirsiniz:
+
+- [LÖSEV - Lösemili Çocuklar Vakfı](https://www.losev.org.tr)
+- [TSK Dayanışma Vakfı](https://onlineodeme.tskdv.org.tr/DAYVAKOB/)
+- [AHBAP](https://ahbap.org)
